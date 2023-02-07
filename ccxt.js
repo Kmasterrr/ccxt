@@ -147,6 +147,7 @@ const exchanges = {
     'timex':                   require ('./js/timex.js'),
     'tokocrypto':              require ('./js/tokocrypto.js'),
     'upbit':                   require ('./js/upbit.js'),
+    'valr':                    require ('./js/valr.js'),
     'wavesexchange':           require ('./js/wavesexchange.js'),
     'wazirx':                  require ('./js/wazirx.js'),
     'whitebit':                require ('./js/whitebit.js'),

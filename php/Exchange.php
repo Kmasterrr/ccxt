@@ -165,6 +165,7 @@ class Exchange {
         'timex',
         'tokocrypto',
         'upbit',
+        'valr',
         'wavesexchange',
         'wazirx',
         'whitebit',
